@@ -1,1 +1,2 @@
 # power
+wires and fans
